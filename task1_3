@@ -1,0 +1,25 @@
+Task 1
+Create a Sales database consisting of three tables.
+This database must have the following tables:
+Sales (info about specific sales), Salespeople (info about salespeople),
+Customers (info about customers). Create an interface using the menu to display
+data from the tables. Minimum set to display:
+
+All purchases;
+All purchases from a specific salesperson;
+The largest amount of sales;
+The smallest amount of sales;
+The greatest amount of sales for a specific salesperson;
+The smallest amount of sales for a specific salesperson;
+The largest amount of purchase for a specific customer;
+The smallest amount of purchase for a specific customer;
+The salesperson who has the largest amount of sales;
+The customer who has the largest amount of purchase.
+
+
+
+Task 2
+Add mechanisms for updating, deleting, inserting data into the database using a menu. The user cannot enter INSERT, UPDATE, DELETE directly. Prevent users from updating and deleting all data for each table (UPDATE and DELETE without conditions).
+
+Task 3
+Supplement Task 1 with the ability to save the results of filters to a file. The path to the file and its name are specified in the application settings.
